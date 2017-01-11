@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner {
+	text-align: center;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	font-style: italic;
+	font-size-adjust: auto;
+	color:mediumorchid;
+	font-size: 30px;
+	background: #189AD1;
+	border-bottom-width: thick;
+	border-bottom-style:double;
+	border-top-style: double;
+	border-left-style: double;
+	border-right-style: double;
+}
+
+#nav_bar {
+   text-align: center;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+    border-spacing: inherit;
+    font-size-adjust: auto;
+    font-style: italic;
+    background-color:transparent;
+    text-align: center;
+    border-bottom-width: thick;
+    border-bottom-style:groove;
+    border-top-style:groove;
+    border-left-style:groove;
+	background-color:#DDA178;
+    border-right-style:groove;
+	
+    
+}
+
+
+#content {
+	align-content: center;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+	border-spacing: inherit;
+	font-size-adjust: auto;
+	font-style: italic;
+background-color: cadetblue;
+	text-align: left;
+	border-bottom-width: thick;
+	border-bottom-style:double;
+	border-top-style: double;
+	border-left-style: double;
+	border-right-style: double;
+}
+
+#footer {
+	border-bottom-style: solid;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-left-width: thick;
+	border-right-style: solid;
+	border-right-width: thick;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+	border-spacing: inherit;
+	font-size-adjust: auto;
+	font-style: italic;
+	text-align: center;
+	background-color: aquamarine;
+	font-size:14px;
+}
+

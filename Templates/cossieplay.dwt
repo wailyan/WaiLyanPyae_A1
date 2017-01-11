@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cossie Play</title>
+<!-- TemplateEndEditable -->
+<link href="../css/cossieplayA1.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="banner"><marquee><strong><em>Cossie Play</em></strong></marquee></div>
+<div>
+<div id="nav_bar">
+<a href="../index.html">Home</a>
+		<a href="../About Us.html">About Us</a>
+		<a href="../Announcement.html">Announcement</a>
+
+		<a href="../Links.html">Resources</a>
+		<a href="../SignUp.html">SignUp</a><a href="../contact.html">Contact</a></li>
+		<a href="../PartyGuidelines.html">PartyGuidelines</a>
+	<a href="../PriceInfo.html">Price Info</a></div>
+	</div>
+<div id="content"><!-- TemplateBeginEditable name="EditRegion1" --><img width="400" height"500" border="1"
+ src="../images/winter-kingdom-798279_1920.jpg">
+ <img width="400" height="500" border="1"
+ src="../images/alice-in-wonderland-872612_1280.jpg">
+ <img width="300"border="1"
+ src="../images/boromir-4-1478698.jpg"><!-- TemplateEndEditable -->
+</div>
+<div id="footer">
+  <p>Our Phone : 07 4771 1234</p>
+<p>Fax: 07-4771 1235</p>
+<p>Address: 4 Stanton Avenue, Hulkstwon</p>
+ <p>cossieplay@ gmail.com</p>
+</div>
+</body>
+</html>
